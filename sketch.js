@@ -57,6 +57,12 @@ function setup() {
   volumeSlider.class("customSlider");
   getLocation();
   setInterval(getLocation, 600000);
+  requestWakeLock();
+  document.addEventListener('visibilitychange', () => {
+  if (document.visibilityState === 'visible') {
+    requestWakeLock();
+  }
+});
 }
 
 function draw() {
@@ -112,7 +118,7 @@ function displayTime(){
   textSize(windowWidth*0.115);
   push();
   textWidth(windowWidth*0.13)
-  text(hours + ":" + minutes,windowWidth*0.545, windowHeight*0.34);
+  text(hours + ":" + minutes,windowWidth*0.545, windowHeight*0.345);
   pop();
   fill(textColour-5);
   textSize(windowWidth*0.02236111111);
@@ -350,3 +356,10 @@ function loadSongs(index){
   artistName = songData.artist;
 }
 
+async function requestWakeLock(){
+  try {
+    await navigation.wakeLock.request('screen');
+  } catch(err){
+    console.log("Wakelock failed", err)
+  }
+}
