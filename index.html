@@ -25,5 +25,10 @@
 
   <body>
     <script src="sketch.js"></script>
+    <script>
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('/MP3-player/sw.js');
+      }
+    </script>
   </body>
 </html>
