@@ -1,0 +1,35 @@
+{
+    "songs": [
+        {"title":"Iss Tarah","artist":"Chaar Diwaari ft. Sonu Nigam","file":"Songs/iss-tarah.mp3","cover":"albumImages/parvanaEP.png"},
+        {"title":"Hotel California","artist":"Joji","file":"Songs/hotel-california.mp3","cover":"albumImages/piss-in-the-wind.jpg"},
+        {"title":"stick","artist":"Jim Legxacy","file":"Songs/stick.mp3","cover":"albumImages/black-british-music.webp"},
+        {"title":"I Told Ya","artist":"Dexter in the Newsagent","file":"Songs/i-told-ya.mp3","cover":"albumImages/time-flies.jpg"},
+        {"title":"Hair Down","artist":"Samm Henshaw","file":"Songs/hair-down.mp3","cover":"albumImages/it-could-be-worse.webp"},
+        {"title":"Out of Time","artist":"The Weeknd","file":"Songs/out-of-time.mp3","cover":"albumImages/dawn-fm.webp"},
+        {"title":"After Hours","artist":"The Weeknd","file":"Songs/after-hours.mp3","cover":"albumImages/after-hours.webp"},
+        {"title":"Étouffée","artist":"Vince Staples","file":"Songs/etouffee.mp3","cover":"albumImages/dark-times.png"},
+        {"title":"Father Time","artist":"Kendrick Lamar ft. Sampha","file":"Songs/father-time.mp3","cover":"albumImages/mr-morale-and-the-big-steppers.jpg"},
+        {"title":"Desoleil (Brilliant Corners)","artist":"Loyle Carner ft. Sampha","file":"Songs/desoleil.mp3","cover":"albumImages/not-waving-but-drowning.webp"},
+        {"title":"Put On A Smile","artist":"Silk Sonic (Bruno Mars & Anderson .Paak)","file":"Songs/put-on-a-smile.mp3","cover":"albumImages/an-evening-with-silk-sonic.webp"},
+        {"title":"Disillusioned","artist":"Daniel Caesar ft. serpentwithfeet","file":"Songs/disillusioned.mp3","cover":"albumImages/never-enough.jpg"},
+        {"title":"Damage Control","artist":"Jenevieve","file":"Songs/damage-control.mp3","cover":"albumImages/crysalis.jpg"},
+        {"title":"From Here","artist":"NxWorries (Anderson .Paak & Knxwledge) ft. Snoop Dogg & October London","file":"Songs/from-here.mp3","cover":"albumImages/why-lawd.jpg"},
+        {"title":"Luther","artist":"Kendrick Lamar ft. SZA","file":"Songs/luther.mp3","cover":"albumImages/gnx.webp"},
+        {"title":"Delilah (Pull Me Out of This)","artist":"Fred again..","file":"Songs/delilah.mp3","cover":"albumImages/actual-life-3.webp"},
+        {"title":"Fear Less","artist":"Fred again.. ft. Sampha","file":"Songs/fear-less.mp3","cover":"albumImages/ten-days.webp"},
+        {"title":"Creepin'","artist":"Metro Boomin, The Weeknd & 21 Savage","file":"Songs/creepin.mp3","cover":"albumImages/heroes-and-villains.jpg"},
+        {"title":"Pink Matter","artist":"Frank Ocean ft. André 3000","file":"Songs/pink-matter.mp3","cover":"albumImages/channel-orange.jpg"},
+        {"title":"White Ferrari","artist":"Frank Ocean","file":"Songs/white-ferrari.mp3","cover":"albumImages/blonde.jpg"},
+        {"title":"STICKY","artist":"Tyler, The Creator ft. GloRilla, Sexyy Red & Lil Wayne","file":"Songs/sticky.mp3","cover":"albumImages/chromakopia.webp"},
+        {"title":"Sanctuary","artist":"Joji","file":"Songs/sanctuary.mp3","cover":"albumImages/nectar.jpg"},
+        {"title":"Glimpse of Us","artist":"Joji","file":"Songs/glimpse-of-us.mp3","cover":"albumImages/smithereens.webp"},
+        {"title":"Tell Your Friends","artist":"The Weeknd","file":"Songs/tell-your-friends.mp3","cover":"albumImages/beauty-behind-the-madness.webp"},
+        {"title":"I Feel It Coming","artist":"The Weeknd ft. Daft Punk","file":"Songs/i-feel-it-coming.mp3","cover":"albumImages/starboy.webp"},
+        {"title":"Wasted Times","artist":"The Weeknd","file":"Songs/wasted-times.mp3","cover":"albumImages/my-dear-melancholy.webp"},
+        {"title":"Niagara Falls","artist":"The Weeknd","file":"Songs/niagara-falls.mp3","cover":"albumImages/hurry-up-tomorrow.jpg"},
+        {"title":"Without","artist":"Sampha","file":"Songs/without.mp3","cover":"albumImages/dual-ep.jpg"},
+        {"title":"Incomplete Kisses","artist":"Sampha","file":"Songs/incomplete-kisses.mp3","cover":"albumImages/process.webp"},
+        {"title":"Dancing Circles","artist":"Sampha","file":"Songs/dancing-circles.mp3","cover":"albumImages/lahai.jpg"}
+        ]
+
+}
